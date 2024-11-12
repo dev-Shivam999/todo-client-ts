@@ -3,3 +3,8 @@
 interface Post{
     success: boolean;
 }
+
+
+interface U{
+    url:string
+}
